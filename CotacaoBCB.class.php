@@ -10,7 +10,7 @@ class CotacaoBCB{
 		'USD' => 1, //dolar
 		'GBP'=>21623, // libra,
 		'ARS'=>14001, // peso argentino
-		'UYU'=>21559, //peso argentino
+		'UYU'=>21559, //peso uruguaio
 		'EUR'=>21619, // euro
 		'JPY'=>21621, // Iene
 	];
